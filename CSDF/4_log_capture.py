@@ -98,8 +98,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Steps:
-# 1. Set up logging to file and console.
-# 2. Provide CLI to generate logs or correlate events.
-# 3. Parse log file, correlate events by time and severity.
-# 4. Print correlated event pairs with timestamps and severity.

@@ -3,7 +3,7 @@ import sys
 import os
 
 # Set the path to the storage device (e.g., '\\\\.\\E:' on Windows or '/dev/sdb1' on Linux)
-DEVICE_PATH = r'\\.\E:'  # Change this to your drive letter or device path
+DEVICE_PATH = r'\\.\C:'  # Change this to your drive letter or device path
 OUTPUT_DIR = 'recovered_files'
 
 # Common file extensions to recover
@@ -75,3 +75,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Recovery Log:
+# Recovered: document1.txt -> recovered_files\document1.txt
+# Recovered: image1.jpg -> recovered_files\image1.jpg
+# Failed to recover report.pdf: [error message]
