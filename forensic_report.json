@@ -1,0 +1,494 @@
+[
+    {
+        "file_name": "logo-32x32.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\ipykernel\\resources\\logo-32x32.png",
+        "hash": "e32b5c282072d717887b60da73178fdd35a65dc3caeacba7a026e5a4255cc997",
+        "exif": {},
+        "image_info": {
+            "width": 32,
+            "height": 32,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "logo-64x64.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\ipykernel\\resources\\logo-64x64.png",
+        "hash": "5c9063b436cedf0567480fe487ece0d1479ea9545f310cba93fa184ccbab290d",
+        "exif": {},
+        "image_info": {
+            "width": 64,
+            "height": 64,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "back.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\back.png",
+        "hash": "1387467f81a7cf5c49d6fdad33280757460d4204a1ade0de540a5a31bfbbe265",
+        "exif": {},
+        "image_info": {
+            "width": 24,
+            "height": 24,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "back_large.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\back_large.png",
+        "hash": "f40ea151241eb3385838d13866e1f792f388b4cd097c356eead91fae89826ec4",
+        "exif": {},
+        "image_info": {
+            "width": 48,
+            "height": 48,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "filesave.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave.png",
+        "hash": "6fb72db9caccfc5da61be0f271379d1bf6bfcb8a47931dc5fb333b975f062e19",
+        "exif": {},
+        "image_info": {
+            "width": 24,
+            "height": 24,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "filesave_large.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave_large.png",
+        "hash": "2cd6d10f9299dca7fb9dba7eb2dc7f6b5ffa5df18149651f0dda609a7ce846f9",
+        "exif": {},
+        "image_info": {
+            "width": 48,
+            "height": 48,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "forward.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\forward.png",
+        "hash": "a4a6cb7a98068867b26364c2065f2cbe3be6ed9e024b78b2b05c5cab8191fb09",
+        "exif": {},
+        "image_info": {
+            "width": 24,
+            "height": 24,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "forward_large.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\forward_large.png",
+        "hash": "dfa87b9bb0d90c7aa5ea491da4d3dc9328b62ca09eff1861c9abd6011cffda44",
+        "exif": {},
+        "image_info": {
+            "width": 48,
+            "height": 48,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "hand.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\hand.png",
+        "hash": "d9c7214444c629ad2160d294c672400709326171013ea272fd5a923e54f45b64",
+        "exif": {},
+        "image_info": {
+            "width": 24,
+            "height": 24,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "help.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\help.png",
+        "hash": "b38a50aea690d29cbc23bbdcf61bf7048dc33bfb64cbeed804ca5a1ee0430816",
+        "exif": {},
+        "image_info": {
+            "width": 24,
+            "height": 24,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "help_large.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\help_large.png",
+        "hash": "d48c04c967c64609e809633eafd0891c4a204c9543e67d5cf0b5d32b8009e111",
+        "exif": {},
+        "image_info": {
+            "width": 48,
+            "height": 48,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "home.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\home.png",
+        "hash": "21c15d00051aebf034aadf083b723ca78ae95e942002527c9dd04408287b0b5c",
+        "exif": {},
+        "image_info": {
+            "width": 24,
+            "height": 24,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "home_large.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\home_large.png",
+        "hash": "bb14b63b7b5638787589abbb09a555e1eae6209699d34ee26e6e59de2f245d88",
+        "exif": {},
+        "image_info": {
+            "width": 48,
+            "height": 48,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "matplotlib.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib.png",
+        "hash": "c3c28b45855afafa146576b8d618096ae42ea288acdb77f73457dd73bda95186",
+        "exif": {},
+        "image_info": {
+            "width": 24,
+            "height": 24,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "matplotlib_large.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib_large.png",
+        "hash": "125468b9ef60ad4aa4657267824fa7be1e0629fa6f278804ebd5abca309b5f95",
+        "exif": {},
+        "image_info": {
+            "width": 48,
+            "height": 48,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "move.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\move.png",
+        "hash": "4e68d1e352334b3c466e1894715eb85f4cf1d818ebc5b587ddc48abe71b6bf37",
+        "exif": {},
+        "image_info": {
+            "width": 24,
+            "height": 24,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "move_large.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\move_large.png",
+        "hash": "4a48f3da75bf453039b3fd20f3c81dab686b55b9ba0ce71f616e05bb8d859fd5",
+        "exif": {},
+        "image_info": {
+            "width": 48,
+            "height": 48,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "qt4_editor_options.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options.png",
+        "hash": "12bc908d0e61876770988c6dcc216230dd54e939ddd75a750837e01f96478cd3",
+        "exif": {},
+        "image_info": {
+            "width": 24,
+            "height": 24,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "qt4_editor_options_large.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options_large.png",
+        "hash": "f8f77ef55879688af73d96bc3ba19efc12e8e35922127a6691d0e3f1ad752646",
+        "exif": {},
+        "image_info": {
+            "width": 48,
+            "height": 48,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "subplots.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots.png",
+        "hash": "3147c222dab7ff2cdbf724627863a09699f463be21f0803b9b98bbd01eb78917",
+        "exif": {},
+        "image_info": {
+            "width": 24,
+            "height": 24,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "subplots_large.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots_large.png",
+        "hash": "11dbbd4b054c4045c9679a205397325bb54b7305c976175ff84b71c66c5d908b",
+        "exif": {},
+        "image_info": {
+            "width": 48,
+            "height": 48,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "zoom_to_rect.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect.png",
+        "hash": "68dcf741906b220c6ef44f9f15f690c1e095362b46b83505a02dbb7b9354d8be",
+        "exif": {},
+        "image_info": {
+            "width": 24,
+            "height": 24,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "zoom_to_rect_large.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect_large.png",
+        "hash": "57aa64c669ba570144c5d83f3c425674adfb1c1ee4ddc13f728acb6bb45b50c9",
+        "exif": {},
+        "image_info": {
+            "width": 48,
+            "height": 48,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "grace_hopper.jpg",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\grace_hopper.jpg",
+        "hash": "a8ca6d734765703b09728ab47fe59f473d93ae3967fc24c7c0288c3c7adb7130",
+        "exif": {},
+        "image_info": {
+            "width": 512,
+            "height": 600,
+            "format": "JPEG",
+            "mode": "RGB"
+        }
+    },
+    {
+        "file_name": "logo2.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\logo2.png",
+        "hash": "0d7371e055decaac47cb6e809af3442e9c1ecd02f1c1e2d063d1cfee4b4a21d7",
+        "exif": {},
+        "image_info": {
+            "width": 542,
+            "height": 130,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "Minduka_Present_Blue_Pack.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\Minduka_Present_Blue_Pack.png",
+        "hash": "5e72868826a7a4329a950e5a9efa393594807833fb7f27e5cd001a8afb9cd081",
+        "exif": {},
+        "image_info": {
+            "width": 128,
+            "height": 128,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "dots.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\scipy\\ndimage\\tests\\dots.png",
+        "hash": "b20b56fadc7471c0694d3e8148d9e28a83d7967bac16bf8852094afea3950414",
+        "exif": {},
+        "image_info": {
+            "width": 420,
+            "height": 300,
+            "format": "PNG",
+            "mode": "RGB"
+        }
+    },
+    {
+        "file_name": "china.jpg",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\sklearn\\datasets\\images\\china.jpg",
+        "hash": "8378025ad2519d649d02e32bd98990db4ab572357d9f09841c2fbfbb4fefad29",
+        "exif": {},
+        "image_info": {
+            "width": 640,
+            "height": 427,
+            "format": "JPEG",
+            "mode": "RGB"
+        }
+    },
+    {
+        "file_name": "flower.jpg",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\sklearn\\datasets\\images\\flower.jpg",
+        "hash": "a77f6ec41e353afdf8bdff2ea981b2955535d8d83294f8cfa49cf4e423dd5638",
+        "exif": {},
+        "image_info": {
+            "width": 640,
+            "height": 427,
+            "format": "JPEG",
+            "mode": "RGB"
+        }
+    },
+    {
+        "file_name": "console.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\werkzeug\\debug\\shared\\console.png",
+        "hash": "6f16b1e915d796f3a28ff29eaaf48d5f4a2325ff3761b9d9ee6cbedc6c7dc360",
+        "exif": {},
+        "image_info": {
+            "width": 16,
+            "height": 16,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "less.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\werkzeug\\debug\\shared\\less.png",
+        "hash": "fb8fa435169725238d54b6a1ad0294c4cc171a6f51e0e9d9f52c431a91e5211e",
+        "exif": {},
+        "image_info": {
+            "width": 11,
+            "height": 11,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "more.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\werkzeug\\debug\\shared\\more.png",
+        "hash": "1a780dec28a81d0a15e7cac7ea88e79188bc73fa840f60246b914ee545eb45e6",
+        "exif": {},
+        "image_info": {
+            "width": 11,
+            "height": 11,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "frowny.bmp",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\win32\\Demos\\images\\frowny.bmp",
+        "hash": "4601af795b74e772a5995e2a546c1d0adacfc91034253e7b290bdff4f34e22f5",
+        "exif": {},
+        "image_info": {
+            "width": 32,
+            "height": 32,
+            "format": "BMP",
+            "mode": "RGB"
+        }
+    },
+    {
+        "file_name": "smiley.bmp",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\win32\\Demos\\images\\smiley.bmp",
+        "hash": "c22e778d80b2e76ddf1588ff1588331b577141d12bc3ea30dbffdd7e85fd82c0",
+        "exif": {},
+        "image_info": {
+            "width": 32,
+            "height": 32,
+            "format": "BMP",
+            "mode": "RGB"
+        }
+    },
+    {
+        "file_name": "python.bmp",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\Lib\\site-packages\\win32\\test\\win32rcparser\\python.bmp",
+        "hash": "19623132815dada9ea5c7c4883227f768bc904d7c2c5cfce4259d21b14df1cb1",
+        "exif": {},
+        "image_info": {
+            "width": 33,
+            "height": 33,
+            "format": "BMP",
+            "mode": "P"
+        }
+    },
+    {
+        "file_name": "logo-32x32.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\share\\jupyter\\kernels\\python3\\logo-32x32.png",
+        "hash": "e32b5c282072d717887b60da73178fdd35a65dc3caeacba7a026e5a4255cc997",
+        "exif": {},
+        "image_info": {
+            "width": 32,
+            "height": 32,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "logo-64x64.png",
+        "file_path": "C:\\Projects\\sem7-main\\.venv\\share\\jupyter\\kernels\\python3\\logo-64x64.png",
+        "hash": "5c9063b436cedf0567480fe487ece0d1479ea9545f310cba93fa184ccbab290d",
+        "exif": {},
+        "image_info": {
+            "width": 64,
+            "height": 64,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    },
+    {
+        "file_name": "photo1.png",
+        "file_path": "C:\\Projects\\sem7-main\\CSDF\\mini_project\\photo1.png",
+        "hash": "f866f0bed5343c84c182bf186881d8a464d190ecb5e11b10f279f1acd9c560a7",
+        "exif": {},
+        "image_info": {
+            "width": 736,
+            "height": 920,
+            "format": "JPEG",
+            "mode": "RGB"
+        }
+    },
+    {
+        "file_name": "photo2.jpg",
+        "file_path": "C:\\Projects\\sem7-main\\CSDF\\mini_project\\photo2.jpg",
+        "hash": "8ab99da5ed75869566301e4e79e6490a52d310d26a8522785d28260f4dddc157",
+        "exif": {},
+        "image_info": {
+            "width": 736,
+            "height": 981,
+            "format": "JPEG",
+            "mode": "RGB"
+        }
+    },
+    {
+        "file_name": "photo3.png",
+        "file_path": "C:\\Projects\\sem7-main\\CSDF\\mini_project\\photo3.png",
+        "hash": "7addd06e60a0d7769a23fad65c809bf4c73f76503a70859c12bc12aa20de75c3",
+        "exif": {},
+        "image_info": {
+            "width": 1024,
+            "height": 1024,
+            "format": "PNG",
+            "mode": "RGB"
+        }
+    },
+    {
+        "file_name": "SEQUENCE.png",
+        "file_path": "C:\\Projects\\sem7-main\\CSDF\\mini_project\\SEQUENCE.png",
+        "hash": "d161269c2b65330b268cfddd47a0648a23a578da0f2a5b72f3dcb76bb347a9f0",
+        "exif": {},
+        "image_info": {
+            "width": 1698,
+            "height": 3397,
+            "format": "PNG",
+            "mode": "RGBA"
+        }
+    }
+]
