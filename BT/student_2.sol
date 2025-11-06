@@ -8,16 +8,20 @@ contract Student {
         string class;
         string department;
     }
-    uint256 PRN;
+
+    uint256 private studentCount;
     mapping(uint256 => student) studentMap;
 
     function addStudent(
+        uint256 prn,
         string memory name,
-        string memory class,
+        string memory class_,
         string memory department
     ) public {
-        PRN += 1;
-        studentMap[PRN] = student(PRN, name, class, department);
+        require(prn > 0, "PRN > 0");
+        require(studentMap[prn].prn == 0, "PRN exists");
+        studentMap[prn] = student(prn, name, class_, department);
+        studentCount += 1;
     }
 
     function getStudent(uint256 _id) public view returns (student memory) {
@@ -25,10 +29,10 @@ contract Student {
     }
 
     function totalStudents() public view returns (uint256) {
-        return (PRN);
+        return studentCount;
     }
 
     fallback() external {
-        addStudent("Unknown", "FE", "CSE");
+        revert("No such function");
     }
 }
